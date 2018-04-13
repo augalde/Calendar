@@ -1,0 +1,9 @@
+.weekend{
+    background-color: yellow;
+}
+.weekday{
+    background-color: green;
+}
+.invalidday{
+    background-color: gray;
+}
